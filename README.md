@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Erica 
+
+- 🔭 I'm currently working as an informatics teacher in Ronse!
+- ⚡ I'm an electrical engineer.
+- 👋 Loving data analysis!
